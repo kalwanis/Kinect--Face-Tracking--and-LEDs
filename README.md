@@ -8,16 +8,26 @@ See the demo on Youtube here: https://www.youtube.com/watch?v=baI8-AaCJMU&noredi
 
 
 You will need:
+
 Microsoft Kinect SDK
+
 Microsoft Kinect Face Tracking SDK
+
 Microsoft Visual Studio Express
 
+
 Kinect Xbox 360
+
 Arduino (the schematic is provided)
+
 Jumper wires
+
 7 mini breadboards
+
 6 100ohm ¼ watt resistors
+
 6 5mm LEDs (any color)
+
 
 
 Wire everything, upload the Arduino sketch, and press start/debug in the Visual Studio file.
@@ -32,6 +42,5 @@ http://stackoverflow.com/questions/15897245/how-to-track-head-position-and-rotat
 http://social.msdn.microsoft.com/forums/en-US/24ca1ec0-7aa3-40af-b94b-9306ba2e1807/simplest-head-pose-code
 
 http://stigern.net/blog/?p=349#codesyntax_1
-
 
 
