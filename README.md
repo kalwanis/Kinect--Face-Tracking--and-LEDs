@@ -8,16 +8,16 @@ See the demo on Youtube here: https://www.youtube.com/watch?v=baI8-AaCJMU&noredi
 
 
 You will need:
--Microsoft Kinect SDK
--Microsoft Kinect Face Tracking SDK
--Microsoft Visual Studio Express
+Microsoft Kinect SDK
+Microsoft Kinect Face Tracking SDK
+Microsoft Visual Studio Express
 
--Kinect Xbox 360
--Arduino (the schematic is provided)
--Jumper wires
--7 mini breadboards
--6 100ohm ¼ watt resistors
--6 5mm LEDs (any color)
+Kinect Xbox 360
+Arduino (the schematic is provided)
+Jumper wires
+7 mini breadboards
+6 100ohm ¼ watt resistors
+6 5mm LEDs (any color)
 
 
 Wire everything, upload the Arduino sketch, and press start/debug in the Visual Studio file.
